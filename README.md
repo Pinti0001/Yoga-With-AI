@@ -17,3 +17,5 @@ The application is a step by step demonstration of the following:
 
 ## Codelab
 Step by Step instructions to understand and run/deploy this application is available in this [codelab](https://codelabs.developers.google.com/yoga-pose-firestore-vectorsearch-python?hl=en#0).
+# Yoga-With-AI
+# Yoga-With-AI
